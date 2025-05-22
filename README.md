@@ -1,6 +1,10 @@
 # Speedo Minimal LVGL8
 
-Uses examples from [Waveshare](https://files.waveshare.com/wiki/ESP32-S3-Touch-LCD-2.1/ESP32-S3-Touch-LCD-2.1-Demo.zip) and [GarageTinkering minimal speedo](https://github.com/garagetinkering/minimal-speedo)
+Uses examples from [ESP_Panel](https://github.com/esp-arduino-libs/ESP32_Display_Panel) and [GarageTinkering minimal speedo](https://github.com/garagetinkering/minimal-speedo)
+
+NOT Tested on any board except the ESP32-S3-Touch-LCD-2.1
+
+[Supported Boards](https://github.com/esp-arduino-libs/ESP32_Display_Panel/blob/master/README.md#supported-boards)
 
 ## Notes
 
