@@ -1,0 +1,1 @@
+# Speedo_Minimal_LVGL8
